@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Евгений Зуев](https://up.htmlacademy.ru/htmlcss/30/user/1150697).
-* Наставник: [Борис Слонов] (https://htmlacademy.ru/profile/slonov_boris)
+* Студент: [Юрий Савченко](https://htmlacademy.ru/profile/yurkaronin)
+* Наставник: [Юрий Савченко](https://htmlacademy.ru/profile/yurkaronin)
 
 ---
 
